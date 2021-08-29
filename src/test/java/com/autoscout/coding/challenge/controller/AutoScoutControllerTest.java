@@ -1,9 +1,9 @@
-package com.autoscout.coding.test.controller;
+package com.autoscout.coding.challenge.controller;
 
-import com.autoscout.coding.test.Service.AutoScoutCSVReader;
-import com.autoscout.coding.test.Service.AutoScoutComputeService;
-import com.autoscout.coding.test.model.Contact;
-import com.autoscout.coding.test.model.Listing;
+import com.autoscout.coding.challenge.service.AutoScoutCSVReader;
+import com.autoscout.coding.challenge.service.AutoScoutComputeService;
+import com.autoscout.coding.challenge.model.Contact;
+import com.autoscout.coding.challenge.model.Listing;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.mockito.Mockito;

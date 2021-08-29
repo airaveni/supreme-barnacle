@@ -1,7 +1,7 @@
-package com.autoscout.coding.test.Service;
+package com.autoscout.coding.challenge.service;
 
-import com.autoscout.coding.test.model.Contact;
-import com.autoscout.coding.test.model.Listing;
+import com.autoscout.coding.challenge.model.Contact;
+import com.autoscout.coding.challenge.model.Listing;
 import com.opencsv.CSVReader;
 import com.opencsv.exceptions.CsvException;
 import lombok.extern.slf4j.Slf4j;

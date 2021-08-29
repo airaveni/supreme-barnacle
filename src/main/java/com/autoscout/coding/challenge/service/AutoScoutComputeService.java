@@ -1,7 +1,7 @@
-package com.autoscout.coding.test.Service;
+package com.autoscout.coding.challenge.service;
 
-import com.autoscout.coding.test.model.Contact;
-import com.autoscout.coding.test.model.Listing;
+import com.autoscout.coding.challenge.model.Contact;
+import com.autoscout.coding.challenge.model.Listing;
 import org.apache.commons.math3.util.Precision;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

@@ -1,4 +1,4 @@
-package com.autoscout.coding.test.model;
+package com.autoscout.coding.challenge.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

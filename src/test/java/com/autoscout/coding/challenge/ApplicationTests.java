@@ -1,4 +1,4 @@
-package com.autoscout.coding.test;
+package com.autoscout.coding.challenge;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
